@@ -7,14 +7,14 @@ nama database : formdata<br>
 nama table : user
 
 
-Tampilan Struktur database:
+Tampilan Struktur database:<br>
 <img alt="struktur database" src="https://raw.githubusercontent.com/wildan14ar/Form-Pengolahan-Data/main/1.PNG">
 
-Tampilan Login:
+Tampilan Login:<br>
 <img alt="login" src="https://raw.githubusercontent.com/wildan14ar/Form-Pengolahan-Data/main/login.PNG">
 
-Tampilan Pengolahan data:
-<img alt="pengolahan data" src="https://raw.githubusercontent.com/wildan14ar/Form-Pengolahan-Data/main/pengolahan-data.PNG">
+Tampilan Pengolahan data:<br>
+<img alt="pengolahan data" src="https://raw.githubusercontent.com/wildan14ar/Form-Pengolahan-Data/main/pengolahan%20data.PNG">
 
-Tampilan Guest:
+Tampilan Guest:<br>
 <img alt="guest" src="https://raw.githubusercontent.com/wildan14ar/Form-Pengolahan-Data/main/guest.PNG">
